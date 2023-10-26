@@ -21,9 +21,8 @@ I have a passion for creating high quality products that meet the needs of my cl
 
 ## 🤝 Social Links
 
-[![Instagram Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png)](https://www.instagram.com/illya_ostrovskyi/)
-[![Facebook Logo](https://github.com/Kinstering/kinstering/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100018105372361)
-[![Fiverr Logo](https://github.com/Kinstering/kinstering/blob/main/logo/fiverr.png)](https://www.fiverr.com/illyaostrovkiy/develop-a-proffesional-telegram-bots)
+[![Static Badge](https://img.shields.io/badge/-INSTAGRAM-333333?style=for-the-badge&logo=instagram)](https://www.instagram.com/illya_ostrovskyi/) [![Static Badge](https://img.shields.io/badge/-FACEBOOK-333333?style=for-the-badge&logo=facebook)](https://www.instagram.com/illya_ostrovskyi/)
+[![Static Badge](https://img.shields.io/badge/-FIVERR-333333?style=for-the-badge&logo=fiverr)](https://www.instagram.com/illya_ostrovskyi/)
 
 ---
 
@@ -41,5 +40,4 @@ I have a passion for creating high quality products that meet the needs of my cl
 
 ![Photostop logo](https://github.com/Kinstering/kinstering/blob/main/logo/photoshop.png "Photoshop")
 ![Figma logo](https://github.com/Kinstering/kinstering/blob/main/logo/figma.png "Figma")
-![Canva logo](https://github.com/Kinstering/kinstering/blob/main/logo/canva.png "Linux")
 ![Linux logo](https://github.com/Kinstering/kinstering/blob/main/logo/linux.png "Linux")
