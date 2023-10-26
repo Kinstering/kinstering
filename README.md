@@ -13,7 +13,7 @@ I have a passion for creating high quality products that meet the needs of my cl
 - 🌟 I am a senior college student with a major in programming.
 - 💼 With a robust track record of over three years, I specialize in the development of Telegram bots and websites, catering to a diverse clientele on freelance platforms.
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-k1nster-0f81c2?style=flat-square&logo=telegram)](https://t.me/k1nster)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-d9634c?style=flat-square&logo=gmail)](illya.ostrovskyi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-d9634c?style=flat-square&logo=gmail)](https://illya.ostrovskyi@gmail.com)
 
 [![Header](https://github.com/Kinstering/kinstering/blob/main/assets/github-snake.svg)](https://github.com/Kinstering/kinstering/blob/main/assets/github-snake.svg)
 
