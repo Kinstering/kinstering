@@ -29,11 +29,11 @@ I have a passion for creating high quality products that meet the needs of my cl
 
 ## 💻 Technology:
 
-![Python Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "Python")
-![CS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "C#")
-![HTML Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "HTML")
-![CSS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "CSS")
-![MYSQL Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "MySQL")
+![Python Logo](https://github.com/Kinstering/kinstering/blob/main/logo/python.png "Python")
+![CS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/cs.png "C#")
+![HTML Logo](https://github.com/Kinstering/kinstering/blob/main/logo/html.png "HTML")
+![CSS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/css.png "CSS")
+![MYSQL Logo](https://github.com/Kinstering/kinstering/blob/main/logo/mysql.png "MySQL")
 
 ---
 
