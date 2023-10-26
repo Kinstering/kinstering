@@ -20,16 +20,20 @@ I have a passion for creating high quality products that meet the needs of my cl
 ---
 
 ## 🤝 Social Links
-[![Static Badge](https://img.shields.io/badge/-INSTAGRAM-333333?style=for-the-badge&logo=instagram)](https://www.instagram.com/illya_ostrovskyi/) [![Static Badge](https://img.shields.io/badge/-FACEBOOK-333333?style=for-the-badge&logo=facebook)](https://www.instagram.com/illya_ostrovskyi/)
-[![Static Badge](https://img.shields.io/badge/-FIVERR-333333?style=for-the-badge&logo=fiverr)](https://www.instagram.com/illya_ostrovskyi/)
 
 [![Instagram Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png)](https://www.instagram.com/illya_ostrovskyi/)
-[![Facebook Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png)](https://www.facebook.com/profile.php?id=100018105372361)
-[![Fiverr Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png)](https://www.fiverr.com/illyaostrovkiy/develop-a-proffesional-telegram-bots)
+[![Facebook Logo](https://github.com/Kinstering/kinstering/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100018105372361)
+[![Fiverr Logo](https://github.com/Kinstering/kinstering/blob/main/logo/fiverr.png)](https://www.fiverr.com/illyaostrovkiy/develop-a-proffesional-telegram-bots)
 
 ---
 
 ## 💻 Technology:
+
+![Python Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "Python")
+![CS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "C#")
+![HTML Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "HTML")
+![CSS Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "CSS")
+![MYSQL Logo](https://github.com/Kinstering/kinstering/blob/main/logo/instagram.png "MySQL")
 
 ---
 
