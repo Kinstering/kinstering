@@ -21,7 +21,7 @@ I have a passion for creating high quality products that meet the needs of my cl
 
 ## 🤝 Social Links
 
-[![Static Badge](https://img.shields.io/badge/-INSTAGRAM-333333?style=for-the-badge&logo=instagram)](https://www.instagram.com/illya_ostrovskyi/) [![Static Badge](https://www.facebook.com/profile.php?id=100018105372361)](https://www.instagram.com/illya_ostrovskyi/)
+[![Static Badge](https://img.shields.io/badge/-INSTAGRAM-333333?style=for-the-badge&logo=instagram)](https://www.instagram.com/illya_ostrovskyi/) [![Static Badge](https://img.shields.io/badge/-FACEBOOK-333333?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100018105372361)
 [![Static Badge](https://img.shields.io/badge/-FIVERR-333333?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/illyaostrovkiy/develop-a-proffesional-telegram-bots)
 
 ---
