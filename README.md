@@ -39,6 +39,7 @@ I have a passion for creating high quality products that meet the needs of my cl
 
 ## 🛠 Tools:
 
-![Photostop logo](https://github.com/Kinstering/kinstering/blob/main/logo/python.png "Photoshop")
-![Figma logo](https://github.com/Kinstering/kinstering/blob/main/logo/cs.png "Figma")
-![Linux logo](https://github.com/Kinstering/kinstering/blob/main/logo/html.png "Linux")
+![Photostop logo](https://github.com/Kinstering/kinstering/blob/main/logo/photoshop.png "Photoshop")
+![Figma logo](https://github.com/Kinstering/kinstering/blob/main/logo/figma.png "Figma")
+![Canva logo](https://github.com/Kinstering/kinstering/blob/main/logo/canva.png "Linux")
+![Linux logo](https://github.com/Kinstering/kinstering/blob/main/logo/linux.png "Linux")
